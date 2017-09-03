@@ -2,8 +2,8 @@
 ## Welcome to Aquamania GitHub Pages
 
 
-###### :one: [repo](/repo)
-###### :two: [test](/test)
-###### :three: [CertView](/CertView)
+1. [repo](/repo)
+1. [test](/test)
+1. [CertView](/CertView)
 
 ### Support contact Aquamania49
