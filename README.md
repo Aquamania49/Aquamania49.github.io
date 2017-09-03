@@ -1,8 +1,6 @@
----
-title: Aquamania 49 repos
----
 
-# Aquamania49.github.io
+
+# Aquamania 49's repos
 ## Welcome to Aquamania GitHub Pages
 
 
