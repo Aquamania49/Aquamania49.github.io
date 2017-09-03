@@ -1,6 +1,6 @@
 
 
-# Aquamania 49's repos
+
 ## Welcome to Aquamania GitHub Pages
 
 
